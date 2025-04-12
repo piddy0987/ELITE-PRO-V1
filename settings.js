@@ -10,9 +10,9 @@ global.socialm = "GitHub: Elite-MD"
 global.location = "Nigeria, Port Harcourt"
 
 
-global.ownernumber = '2348109263390'  //creator number
-global.ownername = 'ElitePro' //owner name
-global.botname = 'ELITE-PRO-V1' //name of the bot
+global.ownernumber = '233595652412'  //creator number
+global.ownername = 'Bigsly' //owner name
+global.botname = 'Big-sly-V1' //name of the bot
 
 
 //custom prefix
